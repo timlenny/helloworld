@@ -12,6 +12,7 @@ public class Main {
         }
 
         System.out.println("Sleep :(");
+        System.out.println("");
 
     }
 }
